@@ -1,0 +1,73 @@
+body{
+    background:#f3e5d8;
+}
+.main{
+    width:740px;
+    height: auto;
+    background: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    padding:3%;
+    border-radius:20px;
+}
+.main img{
+    border-radius:10px;
+    max-width:740px;
+}
+.main h1{
+    font-size: 3.5rem;
+    font-family: 'young serif';
+    font-weight: 400;
+}
+.main p{
+    font-size: 1.2rem;
+    font-family: 'outfit';
+    font-weight: 400;
+}
+.pink{
+    background: #fff5fa;
+    width: 740px;
+    height: 200px;
+    border-radius:10px;
+}
+.pink h2{
+    font-size: 1.9rem;
+    color:#7b284f;
+    padding-top: 1.5%;
+}
+.pad{
+    padding: 0px 0 0 3%;
+    font-family: 'outfit';
+    font-weight: 400;
+}
+.ingredient h1{
+    color:#7b284f;
+    font-size: 3rem;
+    font-family: 'young serif';
+    font-weight: 400;
+}
+.instruction h1{
+    color:#7b284f;
+    font-size: 3rem;
+    font-family: 'young serif';
+    font-weight: 400;
+}
+.nutrition td{
+    font-family: 'outfit';
+}
+span{
+    color:#7b284f;
+}
+.table{
+    font-family: 'outfit';
+    font-size: 1.2rem;
+}
+.row{
+    display: flex;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+}
+.td{
+    margin-right: auto;
+    padding: 2%;
+    text-align: left;
+}
